@@ -7,7 +7,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=0Rhw6WkAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=0Rhw6WkAAAAJ) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=)](https://twitter.com/jh_kim_bci)
 	
-- :student: Combined Master & Doctoral Course in UNIST
+- :student: Ulsan National Institue of Science and Technology Ph.D candidate 
 - :bulb: Domain Knowledge: fMRI, Somatosensory cortex, Tactile stimuli
 - 💬 Ask me about anything [here](https://github.com/jhkim-fmri/jhkim-fmri/issues)
 
