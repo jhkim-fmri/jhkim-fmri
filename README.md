@@ -11,11 +11,8 @@
 - :bulb: Domain Knowledge: fMRI, Somatosensory cortex, Tactile stimuli
 - 💬 Ask me about anything [here](https://github.com/jhkim-fmri/jhkim-fmri/issues)
 
-- </pre></p>I’m a Graduate Students at the Ulsan National Institute of
-Science and Technology (Ulsan, Republic of Korea). 
-- I’m investigating
-process of somatosensory cortex using fMRI techniquecomputational models
-of the brain.
+- </pre></p> I’m investigating
+process of somatosensory cortex using fMRI techniquecomputational models of the brain.
 ---
 <details>
   <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
