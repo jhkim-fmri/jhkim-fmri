@@ -12,7 +12,7 @@
 - 💬 Ask me about anything [here](https://github.com/jhkim-fmri/jhkim-fmri/issues)
 
 - </pre></p> I’m investigating
-process of somatosensory cortex using fMRI techniquecomputational models of the brain.
+process of somatosensory cortex using fMRI technique.
 ---
 <details>
   <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
